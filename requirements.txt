@@ -1,0 +1,9 @@
+base64
+webbrowser
+colorama 
+termcolor 
+discord_webhook 
+json
+requests
+pyperclip
+winsound
