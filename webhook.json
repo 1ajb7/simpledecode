@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "webhook": "Input your webhook in here :)",
-            "accessToken": "Input your access token in here :)"
+            "webhook": "https://discord.com/api/webhooks/1124750004968501288/5nOccGLuq7qbomnyjkxyHUKU-rOiQtyDc1CGxYsFrEw3BzXycgb8jLnHjXUTzgIGkZsw :)",
+            "accessToken": "1121535960216248420 :)"
         }
     ]
 }
